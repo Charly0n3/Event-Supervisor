@@ -1,1 +1,0 @@
-C:\Users\CharlyOne\Desktop\Log-Supervisor\env\Scripts\python.exe C:\Users\CharlyOne\Desktop\Log-Supervisor\logSupervisor.py
